@@ -1,5 +1,5 @@
 ## Elastic BeanStalk
-![Environment Workflow] [1] and [1]: environment-workflow.jpg  
+[![Environment Workflow](/environment-workflow.jpg)] 
 
 ### Also see:
 [Introduction](Introduction.md)  
