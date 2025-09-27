@@ -1,6 +1,6 @@
 ## Elastic BeanStalk
-(./environment-workflow.jpg)
+(environment-workflow.jpg)
 
 ### Also see:
-[Introduction] (./Introduction.md)
-[Installation] (./Installation.md)
+[Introduction] (Introduction.md)
+[Installation] (Installation.md)
